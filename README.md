@@ -14,6 +14,7 @@ Modular design for easily extending vocabulary and gestures
 
 Accessibility focused to support communication for the hearing impaired
 
+
 Tech Stack: 
 
 Python
